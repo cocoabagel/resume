@@ -8,7 +8,6 @@
 |Github|[github](https://github.com/cocoabagel)|
 |Twitter|[@kazutoshibaba](https://twitter.com/kazutoshibaba)|
 |Wantedly|[Kazutoshi Baba](https://www.wantedly.com/users/17781432)|
-|履歴書(JIS規格)|[Kazutoshi Baba](https://drive.google.com/file/d/1jxZM5dnT5w1LVT1OooHJBBkBO6s6VVyp/view?usp=sharing)|
 
 ## 紹介文
 馬場 一寿
