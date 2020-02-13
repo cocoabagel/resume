@@ -9,7 +9,7 @@
 | Github   | [github](https://github.com/cocoabagel)                   |
 | Twitter  | [@kazutoshibaba](https://twitter.com/kazutoshibaba)       |
 | Wantedly | [Kazutoshi Baba](https://www.wantedly.com/users/17781432) |
-| Skill | [Kazutoshi Baba](https://www.resume.id) |
+| Skill | [Kazutoshi Baba](https://www.resume.id/baba) |
 
 
 ## 紹介文
