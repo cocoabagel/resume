@@ -5,22 +5,20 @@
 | key      | value                                                     |
 | -------- | --------------------------------------------------------- |
 | Name     | 馬場 一寿 (Kazutoshi Baba)                                    |
-| HP       | [COCOABAGEL](http://cocoabagel.com)                       |
 | Github   | [github](https://github.com/cocoabagel)                   |
 | Twitter  | [@kazutoshibaba](https://twitter.com/kazutoshibaba)       |
 | Wantedly | [Kazutoshi Baba](https://www.wantedly.com/users/17781432) |
-| Skill | [Kazutoshi Baba](https://www.resume.id/baba) |
-
 
 ## 紹介文
 
 馬場 一寿
 
-iOSアプリのことならなんでもやるiOSエンジニアです、2010年からiOSアプリ開発関連の仕事をしています。
-UI/UX に強くなろうとデザインの方にも知識を取り入れるようにしています、Sketch の扱いは得意です。
+iOSアプリのことならなんでもやるiOSエンジニアです。  
+2010年からiOSアプリ開発関連の仕事に携わっており、個人アプリの販売や受託開発による新規開発・運用保守を担当し、最近ではminneにフルタイムで開発に入っており新機能の開発や運用保守など全般をやっています。  
+アプリやネットワークのリバースエンジニアリングツールや開発サービスが好きでよく課金しています。  
+最近は SwiftUI と Swift Concurrency と Combine の技術やMachine Learning (CoreML), TDDを使用した開発の方にも興味を持っていて手を出しています。
 
-最近は SwiftUI で遊び、Machine Learning (CoreML), TDDを使用した開発の方にも興味を持っていて手を出しています。
-コードを書かない時は、筋トレと風呂が好きでジムや銭湯などに通っています。
+コードを書かない時は、筋トレと風呂が好きでジムや銭湯などに通っているのと、アガベチタノタという植物を育てるのが趣味になっています。
 
 ## スキル
 
@@ -30,36 +28,36 @@ UI/UX に強くなろうとデザインの方にも知識を取り入れるよ�
 - Java サーバーサイドエンジニア・SE 4年
 
 ### 発表スライド
-https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokorekara
+
+- [minne iOS のアーキテクチャの進化とこれから](https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokorekara)
 
 ### 言語
 
-- **Swift 5.7 ** / Objective-C / Python / Java
+- **Swift 5.7**  / Objective-C
 
 ### フレームワーク
 
-- Cimbine / SwiftUI / Firebase / Realm / RxSwift / Alamofire / PromiseKit
+- UIKit / Cimbine / SwiftUI / Swift Concurrency / SPM / Firebase / Realm / CoreData / RxSwift / Alamofire / Quick
 
 ### 普段使っている開発ツール
 
-- Xcode / Reveal / Sherlock 2.0 / Charles / Proxyman / Paw / Tower / Bitrise / Trello / Sketch / Figma / 
+- Xcode / Reveal / Sherlock 2.0 / Charles / Proxyman / Paw / Tower / Bitrise / TestFlight / Trello / Sketch / Figma / Jira / Visual Studio Code / MindNode / Notion / fastlane
 
 ### 興味があること
 
-- TDD / SwiftUI / Core ML / Server Side Swift
+- SwiftUI / Core ML / Server Side Swift / Swift Concurrency
 
 ### コードを書かないとき
 
-- 筋トレ / 風呂 / YouTube / プリコネ / Diablo 2
+- 筋トレ / 植物（アガベチタノタ） / 風呂 / YouTube / ゲーム（プリコネ, Diablo 4, Cyberpunk 2077）
 
 ### 好きなサイト
 
-- [Raywenderlich](https://www.raywenderlich.com)
-- [NSscreencast](https://nsscreencast.com)
+- [kodeco](https://www.kodeco.com)
+- [Hacking With Swift](https://www.hackingwithswift.com)
 - [iOS Dev Weekly](https://iosdevweekly.com)
-- [APPCODA](http://www.appcoda.com)
 - [UI8](https://ui8.net)
-- [Design+Code](https://designcode.io)
+- [Design+Code](https://designcode.io) 
 
 ## 職歴経歴
 
@@ -69,10 +67,16 @@ https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokore
 
 #### minne
 
- - 期間: 2020/5 - 現在
- - 使用技術: Swift 5.7 / MVVM+R / XcodeGen / Coombine / SPM / CocoaPods / Swift Concurrency
-   -  https://tech.pepabo.com/2021/01/25/minne-ios-2021/
+[minne](https://minne.com)の[iOSアプリ](https://apps.apple.com/app/id563764220?mt=8)の開発を担当しており、新機能の実装から運用保守まですべて対応しています。  
+最近の開発トピックとしてはSwiftUIへ移行、Swift6に移行を見据えたSwift Concurrency対応や、脱CocoaPodsに向けた対応、SPMへ順次移行、マルチモジュール化などの改善を行ってきています。  
   
+- 期間: 2020/5 - 現在
+- フルタイム勤務
+- チーム： 開発: 2人(現在)、ほか施策により3〜5人と変動
+- 使用技術: Swift 5.7 / MVVM+R / XcodeGen / Coombine / SPM / CocoaPods / Swift Concurrency
+  - [minne iOS のアーキテクチャの進化とこれから](https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokorekara)
+  - [使用技術とか](https://tech.pepabo.com/2021/01/25/minne-ios-2021/)
+
 </details>
 
 <details><summary>2013/10 - 2020/3 : シーサー株式会社</summary>
@@ -172,7 +176,7 @@ https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokore
 
 </details>
 
-<details><summary>2010/10 - 2013/10 : 個人開発</summary> 
+<details><summary>2010/10 - 2013/10 : 個人開発</summary>
 
 職務: iOS エンジニア
 
@@ -190,7 +194,7 @@ https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokore
 
 </details>
 
-<details><summary>2006/4 - 2010/10 : サイオステクノロジー株式会社</summary> 
+<details><summary>2006/4 - 2010/10 : サイオステクノロジー株式会社</summary>
 
 職務: Sier で Java プログラマー・SE
 
