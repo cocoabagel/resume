@@ -29,17 +29,20 @@ UI/UX に強くなろうとデザインの方にも知識を取り入れるよ�
 - **iOS エンジニア 10年**
 - Java サーバーサイドエンジニア・SE 4年
 
+### 発表スライド
+https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokorekara
+
 ### 言語
 
-- **Swift** / Objective-C / Python / Java
+- **Swift 5.7 ** / Objective-C / Python / Java
 
 ### フレームワーク
 
-- Firebase / Realm / RxSwift / Alamofire / PromiseKit
+- Cimbine / SwiftUI / Firebase / Realm / RxSwift / Alamofire / PromiseKit
 
 ### 普段使っている開発ツール
 
-- Xcode / Reveal / Charles / Paw / Tower / Bitrise / Trello / Sketch / Flinto
+- Xcode / Reveal / Sherlock 2.0 / Charles / Proxyman / Paw / Tower / Bitrise / Trello / Sketch / Figma / 
 
 ### 興味があること
 
@@ -47,7 +50,7 @@ UI/UX に強くなろうとデザインの方にも知識を取り入れるよ�
 
 ### コードを書かないとき
 
-- 筋トレ / 風呂 / YouTube / プリコネ
+- 筋トレ / 風呂 / YouTube / プリコネ / Diablo 2
 
 ### 好きなサイト
 
