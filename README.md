@@ -67,6 +67,12 @@ https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokore
 
 職務: iOS エンジニア
 
+#### minne
+
+ - 期間: 2020/5 - 現在
+ - 使用技術: Swift 5.7 / MVVM+R / XcodeGen / Coombine / SPM / CocoaPods / Swift Concurrency
+   -  https://tech.pepabo.com/2021/01/25/minne-ios-2021/
+  
 </details>
 
 <details><summary>2013/10 - 2020/3 : シーサー株式会社</summary>
