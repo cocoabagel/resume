@@ -65,7 +65,7 @@ iOSアプリのことならなんでもやるiOSエンジニアです。
 
 職務: iOS エンジニア
 
-#### minne
+#### [minne](https://apps.apple.com/jp/app/minne-ミンネ-ハンドメイドマーケット/id563764220)
 
 [minne](https://minne.com)の[iOSアプリ](https://apps.apple.com/app/id563764220?mt=8)の開発を担当しており、新機能の実装から運用保守まですべて対応しています。  
 最近の開発トピックとしてはSwiftUIへ移行、Swift6に移行を見据えたSwift Concurrency対応や、脱CocoaPodsに向けた対応、SPMへ順次移行、マルチモジュール化などの改善を行ってきています。  
