@@ -6,25 +6,37 @@
 | -------- | --------------------------------------------------------- |
 | Name     | 馬場 一寿 (Kazutoshi Baba)                                    |
 | Github   | [github](https://github.com/cocoabagel)                   |
-| Twitter  | [@kazutoshibaba](https://twitter.com/kazutoshibaba)       |
+| X        | [@kazutoshibaba](https://twitter.com/kazutoshibaba)       |
 | Wantedly | [Kazutoshi Baba](https://www.wantedly.com/users/17781432) |
 
 ## 紹介文
 
 馬場 一寿
 
-iOSアプリのことならなんでもやるiOSエンジニアです。  
+**Claude Code Max 20Xプラン契約者**
+
+iOSアプリのことならなんでも大好きiOSエンジニアです。  
 2010年からiOSアプリ開発関連の仕事に携わっており、個人アプリの販売や受託開発による新規開発・運用保守を担当し、最近ではminneにフルタイムで開発に入っており新機能の開発や運用保守など全般をやっています。  
 アプリやネットワークのリバースエンジニアリングツールや開発サービスが好きでよく課金しています。  
-最近は SwiftUI と Swift Concurrency と Combine の技術やMachine Learning (CoreML), TDDを使用した開発の方にも興味を持っていて手を出しています。
+最近は SwiftUI と Swift Concurrency と Combine の技術が好きで最近はClaude CodeのMCPを活用したAIを利用したらくらく開発自動化に取り組んでいます。
+FigmaMCP、XcodeBuildMCPなど組み合わせて施策の実現や、SwiftFormat、SwiftLintによる成果物のフォーマットさせコーディング規約を定めてテストコードをAIに書かせるのが趣味です。
 
-コードを書かない時は、筋トレと風呂が好きでジムや銭湯などに通っているのと、アガベチタノタという植物を育てるのが趣味になっています。
+コードを書かない時は、パルワールド、Cybberpunk 2077というゲームをmacでプレイしています。アガベチタノタという植物を育てるのが趣味になっています。
+
+## 希望年収
+
+750万 ~ 800万
+
+## 希望業務
+
+**リモートワーク**
+iOS、iPadOSなどのネイティブアプリ開発、Swift 6対応やLiquid Glass対応はもちろん、Vision Pro対応などAppleエコシステム内のマルチプラットフォーム展開にも挑戦していきたい。
 
 ## スキル
 
 ### 経験職種
 
-- **iOS エンジニア 10年**
+- **iOS エンジニア 15年**
 - Java サーバーサイドエンジニア・SE 4年
 
 ### 発表スライド
@@ -33,23 +45,23 @@ iOSアプリのことならなんでもやるiOSエンジニアです。
 
 ### 言語
 
-- **Swift 5.7**  / Objective-C
+- **Swift 5.10**  / Objective-C
 
 ### フレームワーク
 
-- UIKit / Cimbine / SwiftUI / Swift Concurrency / SPM / Firebase / Realm / CoreData / RxSwift / Alamofire / Quick
+- UIKit / Cimbine / SwiftUI / Swift Concurrency / SPM / Firebase / GraphQL / Apollo / Swift Testing / Swift Charts / Observableマクロ
 
 ### 普段使っている開発ツール
 
-- Xcode / Reveal / Sherlock 2.0 / Charles / Proxyman / Paw / Tower / Bitrise / TestFlight / Trello / Sketch / Figma / Jira / Visual Studio Code / MindNode / Notion / fastlane
+- Xcode 26 / Reveal / Charles / Proxyman / Paw / Tower / Bitrise / TestFlight / Sketch / Figma / Jira / Visual Studio Code / Notion / fastlane / Timing / Kaleidoscope / Ghostty / Alacritty / Obsidian / Xcodes
 
 ### 興味があること
 
-- SwiftUI / Core ML / Server Side Swift / Swift Concurrency
+- Swift 6 / Swift Concurrency / AIエージェントを活用した開発
 
 ### コードを書かないとき
 
-- 筋トレ / 植物（アガベチタノタ） / 風呂 / YouTube / ゲーム（プリコネ, Diablo 4, Cyberpunk 2077）
+- 植物（アガベチタノタ） / YouTube / ゲーム（プリコネ、パルワールド、Cyberpunk 2077）
 
 ### 好きなサイト
 
@@ -57,27 +69,38 @@ iOSアプリのことならなんでもやるiOSエンジニアです。
 - [Hacking With Swift](https://www.hackingwithswift.com)
 - [iOS Dev Weekly](https://iosdevweekly.com)
 - [UI8](https://ui8.net)
-- [Design+Code](https://designcode.io) 
 
 ## 職歴経歴
 
-<details><summary>2020/5 - 現在 : GMOペパボ株式会社</summary>
+2020/5 - 現在 : GMOペパボ株式会社
 
 職務: iOS エンジニア
+部署: minne事業部
 
 #### [minne](https://apps.apple.com/jp/app/minne-ミンネ-ハンドメイドマーケット/id563764220)
 
 [minne](https://minne.com)の[iOSアプリ](https://apps.apple.com/app/id563764220?mt=8)の開発を担当しており、新機能の実装から運用保守まですべて対応しています。  
-最近の開発トピックとしてはSwiftUIへ移行、Swift6に移行を見据えたSwift Concurrency対応や、脱CocoaPodsに向けた対応、SPMへ順次移行、マルチモジュール化などの改善を行ってきています。  
+13年ものアプリであり、脱CocoaPods、Objective-CからSwiftへ100%移行済み、XCTest、QuickからSwift Testingへ移行、REST APIからGraphQLへの移行、UIKitをSwiftUIへ順次リライトなどの改善を行ってきました。
+最近の開発トピックとしてはSwiftUIへ移行、Swift Concurrency対応や、Swift Chartsの利用、Observableマクロを利用したMVVMアーキテクチャーの改善、マルチモジュール化などの改善を行ってきています。  
   
 - 期間: 2020/5 - 現在
 - フルタイム勤務
-- チーム： 開発: 2人(現在)、ほか施策により3〜5人と変動
-- 使用技術: Swift 5.7 / MVVM+R / XcodeGen / Coombine / SPM / CocoaPods / Swift Concurrency
+- チーム： 開発: 3人(現在)
+- 使用技術: Swift 5.10 / MVVM+R / XcodeGen / Coombine / SPM / Swift Concurrency / Swift Testing / Swift Charts / Observableマクロ
   - [minne iOS のアーキテクチャの進化とこれから](https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokorekara)
   - [使用技術とか](https://tech.pepabo.com/2021/01/25/minne-ios-2021/)
 
-</details>
+[詳しい実績等はこちら](https://github.com/cocoabagel/resume/blob/master/minne.md)
+
+TODO: Pull Request 数、 push数などの画像を貼る
+
+パフォーマンスの指標として過去1年間の実績です。
+
+<img src="https://github.com/cocoabagel/resume/blob/master/img/PullRequest.png" width=200>
+
+<img src="https://github.com/cocoabagel/resume/blob/master/img/Push.png" width=200>
+
+<img src="https://github.com/cocoabagel/resume/blob/master/img/PullRequestReview.png" width=200>
 
 <details><summary>2013/10 - 2020/3 : シーサー株式会社</summary>
 
