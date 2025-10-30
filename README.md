@@ -96,11 +96,17 @@ TODO: Pull Request 数、 push数などの画像を貼る
 
 パフォーマンスの指標として過去1年間の実績です。
 
-<img src="https://github.com/cocoabagel/resume/blob/master/img/PullRequest.png" width=200>
+Pull Request数
 
-<img src="https://github.com/cocoabagel/resume/blob/master/img/Push.png" width=200>
+<img src="https://github.com/cocoabagel/resume/blob/master/img/PullRequest.png" width=400>
 
-<img src="https://github.com/cocoabagel/resume/blob/master/img/PullRequestReview.png" width=200>
+Push数
+
+<img src="https://github.com/cocoabagel/resume/blob/master/img/Push.png" width=400>
+
+Pull Request Review数
+
+<img src="https://github.com/cocoabagel/resume/blob/master/img/PullRequestReview.png" width=400>
 
 <details><summary>2013/10 - 2020/3 : シーサー株式会社</summary>
 
