@@ -92,8 +92,6 @@ iOS、iPadOSなどのネイティブアプリ開発、Swift 6対応やLiquid Gla
 
 [詳しい実績等はこちら](https://github.com/cocoabagel/resume/blob/master/minne.md)
 
-TODO: Pull Request 数、 push数などの画像を貼る
-
 パフォーマンスの指標として過去1年間の実績です。
 
 Pull Request数
