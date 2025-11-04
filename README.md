@@ -20,8 +20,9 @@ iOSアプリのことならなんでも大好きiOSエンジニアです。
 アプリやネットワークのリバースエンジニアリングツールや開発サービスが好きでよく課金しています。  
 最近は SwiftUI と Swift Concurrency と Combine の技術が好きで最近はClaude CodeのMCPを活用したAIを利用したらくらく開発自動化に取り組んでいます。
 FigmaMCP、XcodeBuildMCPなど組み合わせて施策の実現や、SwiftFormat、SwiftLintによる成果物のフォーマットさせコーディング規約を定めてテストコードをAIに書かせるのが趣味です。
+レビューでStoryboard, nibファイルのXMLを読める人間です。
 
-コードを書かない時は、パルワールド、Cybberpunk 2077というゲームをmacでプレイしています。アガベチタノタという植物を育てるのが趣味になっています。
+コードを書かない時は、パルワールド、Cybberpunk 2077というゲームをmacでプレイしています。アガベ チタノタという植物を育てるのが趣味になっています。
 
 ## 希望年収
 
@@ -61,7 +62,7 @@ iOS、iPadOSなどのネイティブアプリ開発、Swift 6対応やLiquid Gla
 
 ### コードを書かないとき
 
-- 植物（アガベチタノタ） / YouTube / ゲーム（プリコネ、パルワールド、Cyberpunk 2077）
+- 植物（アガベチタノタ） / YouTube / ゲーム（パルワールド、Cyberpunk 2077）
 
 ### 好きなサイト
 
@@ -80,13 +81,15 @@ iOS、iPadOSなどのネイティブアプリ開発、Swift 6対応やLiquid Gla
 #### [minne](https://apps.apple.com/jp/app/minne-ミンネ-ハンドメイドマーケット/id563764220)
 
 [minne](https://minne.com)の[iOSアプリ](https://apps.apple.com/app/id563764220?mt=8)の開発を担当しており、新機能の実装から運用保守まですべて対応しています。  
-13年ものアプリであり、脱CocoaPods、Objective-CからSwiftへ100%移行済み、XCTest、QuickからSwift Testingへ移行、REST APIからGraphQLへの移行、UIKitをSwiftUIへ順次リライトなどの改善を行ってきました。
+13年ものアプリであり、脱CocoaPods、Objective-CからSwiftへ100%移行済み、XCTest、QuickからSwift Testingへ完全移行、REST APIからGraphQLへの移行、UIKitをSwiftUIへ順次リライト、MVC、MVP、TCAアーキテクチャーをMVVMに移行するなどの改善を行ってきました。
 最近の開発トピックとしてはSwiftUIへ移行、Swift Concurrency対応や、Swift Chartsの利用、Observableマクロを利用したMVVMアーキテクチャーの改善、マルチモジュール化などの改善を行ってきています。  
-  
+広告SDKの導入でCocoaPodsを使用せずにSwift Package Managerを利用しxcframeworkを作成しプリコンパイルされたフレームワークとしてアプリに導入するスクリプト作成いった手法を用いた改善も行っています。
+ほか。決済周りの改善やら最新Xcodeに即日対応、Claude Code GitHub Actionを活用したコードレビュー、CLAUDE.mdにコーディング規約やカラー指定、フォント指定、Swift Testingへの書き方などをAIに書かせてバイブコーディングをチーム外からでもできるようにするなど施策から基盤改善まで多岐に渡ってチームを引っ張ってきました。
+
 - 期間: 2020/5 - 現在
 - フルタイム勤務
 - チーム： 開発: 3人(現在)
-- 使用技術: Swift 5.10 / MVVM+R / XcodeGen / Coombine / SPM / Swift Concurrency / Swift Testing / Swift Charts / Observableマクロ
+- 使用技術: Swift 5.10 / MVVM+R / XcodeGen / Coombine / Swift Package Manager / Swift Concurrency / Swift Testing / Swift Charts / Observableマクロ / Bitrise / fastlane
   - [minne iOS のアーキテクチャの進化とこれから](https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokorekara)
   - [使用技術とか](https://tech.pepabo.com/2021/01/25/minne-ios-2021/)
 
