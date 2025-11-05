@@ -82,7 +82,7 @@ iOS、iPadOSなどのネイティブアプリ開発、Swift 6対応やLiquid Gla
 
 [minne](https://minne.com)の[iOSアプリ](https://apps.apple.com/app/id563764220?mt=8)の開発を担当しており、新機能の実装から運用保守まですべて対応しています。  
 13年ものアプリであり、脱CocoaPods、Objective-CからSwiftへ100%移行済み、XCTest、QuickからSwift Testingへ完全移行、REST APIからGraphQLへの移行、UIKitをSwiftUIへ順次リライト、MVC、MVP、TCAアーキテクチャーをMVVMに移行するなどの改善を行ってきました。
-最近の開発トピックとしてはSwiftUIへ移行、Swift Concurrency対応や、Swift Chartsの利用、Observableマクロを利用したMVVMアーキテクチャーの改善、マルチモジュール化などの改善を行ってきています。  
+最近の開発トピックとしてはSwiftUIへ移行、Swift Concurrency対応や、Swift Chartsの利用、Observableマクロを利用したMVVMアーキテクチャーの改善、マルチモジュール化、テスト実行の安定性向上などの改善を行ってきています。
 広告SDKの導入でCocoaPodsを使用せずにSwift Package Managerを利用しxcframeworkを作成しプリコンパイルされたフレームワークとしてアプリに導入するスクリプト作成いった手法を用いた改善も行っています。
 ほか。決済周りの改善やら最新Xcodeに即日対応、Claude Code GitHub Actionを活用したコードレビュー、CLAUDE.mdにコーディング規約やカラー指定、フォント指定、Swift Testingへの書き方などをAIに書かせてバイブコーディングをチーム外からでもできるようにするなど施策から基盤改善まで多岐に渡ってチームを引っ張ってきました。
 
