@@ -26,7 +26,7 @@ FigmaMCP、XcodeBuildMCPなど組み合わせて施策の実現や、SwiftFormat
 
 ## 希望年収
 
-750万 ~ 800万
+現職と同等の700万
 
 ## 希望業務
 
