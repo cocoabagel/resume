@@ -63,6 +63,12 @@ Swift 6のConcurrencyやマクロなどの言語機能を熟知し、保守性�
 
 - Xcode 26 / Reveal / Charles / Proxyman / Paw / Tower / Bitrise / TestFlight / Sketch / Figma / Jira / Visual Studio Code / Notion / fastlane / Timing / Kaleidoscope / Ghostty / Alacritty / Obsidian / Xcodes
 
+### 普段の開発スタイル
+
+- Ghosttyで複数タブを1ウィンドウで起動し、Claude Codeを並列に動かして開発
+- Towerでgitの差分を確認しながらAIが生成したコードをレビュー
+- ビルド・実行はXcodeで実施
+
 ### 興味があること
 
 - Swift 6 / Swift Concurrency / AIエージェントを活用した開発
