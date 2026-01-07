@@ -47,6 +47,10 @@ Swift 6のConcurrencyやマクロなどの言語機能を熟知し、保守性�
 
 - [minne iOS のアーキテクチャの進化とこれから](https://speakerdeck.com/cocoabagel/minne-ios-falseakitekutiyafalsejin-hua-tokorekara)
 
+### ポートフォリオ
+
+- [PriconneDB-Public](https://github.com/cocoabagel/PriconneDB-Public)
+
 ### 言語
 
 - **Swift 5.10**  / Objective-C
