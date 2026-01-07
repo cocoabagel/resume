@@ -13,16 +13,13 @@
 
 馬場 一寿
 
-**Claude Code Max 20Xプラン契約者**
-
 iOSアプリのことならなんでも大好きiOSエンジニアです。  
 2010年からiOSアプリ開発関連の仕事に携わっており、個人アプリの販売や受託開発による新規開発・運用保守を担当し、最近ではminneにフルタイムで開発に入っており新機能の開発や運用保守など全般をやっています。  
 アプリやネットワークのリバースエンジニアリングツールや開発サービスが好きでよく課金しています。  
-最近は SwiftUI と Swift Concurrency と Combine の技術が好きで最近はClaude CodeのMCPを活用したAIを利用したらくらく開発自動化に取り組んでいます。
-FigmaMCP、XcodeBuildMCPなど組み合わせて施策の実現や、SwiftFormat、SwiftLintによる成果物のフォーマットさせコーディング規約を定めてテストコードをAIに書かせるのが趣味です。
-レビューでStoryboard, nibファイルのXMLを読める人間です。
+最近は SwiftUI と Swift Concurrency と Combine の技術が好きで最近はClaude CodeのSkills, Rules, MCPを活用した開発効率向上に取り組んでいます。
+FigmaMCP、XcodeBuildMCPなど組み合わせて施策の実現や、SwiftFormat、SwiftLintによる成果物のフォーマットさせコーディング規約を適用させるようにしています。
 
-コードを書かない時は、パルワールド、Cybberpunk 2077というゲームをmacでプレイしています。アガベ チタノタという植物を育てるのが趣味になっています。
+コードを書かない時は、ドラクエ、パルワールド、Cybberpunk 2077というゲームをプレイしています。アガベ チタノタという植物を育てるのが趣味になっています。
 
 ## 希望年収
 
